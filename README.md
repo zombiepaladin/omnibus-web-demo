@@ -6,6 +6,17 @@ The entire repository is set up as a single devcontainer and can be run as a Cod
 
 ## Server Approaches
 
-### [ASP.NET](server-aspnet)
-The ASP.NET
+### ASP.NET
+The [server-aspnet](/server-aspnet/) project uses C# and ASP.NET with controllers to provide a web API.
 
+### Node and Express
+The [server-node](/server-node/) project uses Node and the Express library to provide a web API.
+
+## Client Approaches
+
+### React 
+The [client-react](/client-react/) project uses the Vite development environment and React to provide a client-side app to consume one of the web APIs and provide a weather forecast.
+
+
+### Vue
+The [client-vue](/client-vue/) project uses the Vite development environment and Vue to provide a client-side app to consume one of the web APIs and provide a weather forecast.

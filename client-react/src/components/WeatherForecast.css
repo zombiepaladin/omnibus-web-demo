@@ -1,0 +1,9 @@
+.weather-forecast-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.weather-forecast-card {
+    border: 1px solid black;
+    margin: 1rem;
+}
